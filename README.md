@@ -38,59 +38,8 @@
 
 ---
 
-🖥️ Screenshots
-
-Landing Page	Dashboard	Analysis Result
-
-Hero + CTA	Stats + Reports	Score + Roadmap
 
 
-
----
-
-🚀 Getting Started
-
-1. Clone the repository
-
-git clone https://github.com/YOUR_USERNAME/linkedin-ai-analyzer.git  
-cd linkedin-ai-analyzer
-
-2. Install dependencies
-
-npm install
-
-3. Run locally
-
-npm run dev
-
-Open http://localhost:5173 in your browser.
-
-
----
-
-📦 Build for Production
-
-npm run build
-
-
----
-
-☁️ Deploy to Vercel (Free)
-
-1. Push this repo to GitHub
-
-
-2. Go to vercel.com → Import Project
-
-
-3. Select your GitHub repo
-
-
-4. Click Deploy ✅
-
-
-
-Your app will be live at https://your-app-name.vercel.app
 
 
 ---
@@ -153,13 +102,3 @@ linkedin-ai-analyzer/
 Pull requests are welcome! For major changes, please open an issue first.
 
 
----
-
-📄 License
-
-MIT © 2025 — Free to use and modify.
-
-
----
-
-<p align="center">Built with ❤️ using Claude AI</p>
